@@ -1,0 +1,22 @@
+.contenedor {
+  width: 38%;
+  height: 70%;
+  margin: 0 auto;
+  background-image: url('../../assets/estrellas.jpg');
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  display: inline-block;
+
+}
+
+.contenedorApp {
+  width: 62%;
+  height: 70%;
+  margin: 0 auto;
+  background: black;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  display: inline-block;
+}
